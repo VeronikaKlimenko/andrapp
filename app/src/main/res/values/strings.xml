@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lr5</string>
+    <string name="total_items">Total items</string>
+    <string name="add_item">Add item</string>
+    <string name="add">Add</string>
+    <string name="sort">Sort</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="sort_ascending">Sort ascending</string>
+    <string name="sort_descending">Sort descending</string>
+</resources>
